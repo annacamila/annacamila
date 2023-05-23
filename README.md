@@ -14,7 +14,7 @@ How to reach me:
 [![Linkedin: anacamilasantosdesouza](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacamilasantosdesouza/)](https://www.linkedin.com/in/anacamilasantosdesouza/)
 
 ____
-⚡ Technologies
+###  ⚡  Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-green)

@@ -2,7 +2,7 @@
 
 # 👩🏾‍💻 Ana Camila Souza
 
-👩🏾‍🎓 Graduada em Sistemas de Informação
+# 👩🏾‍🎓 Graduada em Sistemas de Informação
 
 🙎🏾‍♀️ Tenho experiência na área de Business Intelligence, especializada na análise e visualização de dados. Domino Power BI, Power Query e Excel avançado, crio dashboards interativos e KPIs que promovem decisões mais assertivas.
 
@@ -20,12 +20,12 @@ Minha paixão é utilizar dados para otimizar operações, impulsionar o crescim
 ____
 ### 🛠 Hard Skills
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-green)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ____
 ### 🧠 Soft Skills
@@ -41,5 +41,5 @@ ____
 ____
 
 ### 📊 Estatísticas
-| <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annacamila&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br" alt="Ana Camila's github stats" /></a> | <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacamila&layout=compact&theme=dark&custom_title=Linguagens&Tecnologias&langs_count=9" /></a>|
+| <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annacamila&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br" alt="Ana Camila's github stats" /></a> | <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacamila&layout=compact&theme=dark&custom_title=Linguagens/Tecnologias&langs_count=9" /></a>|
 | ------------- | ------------- |

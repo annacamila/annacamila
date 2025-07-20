@@ -5,8 +5,11 @@
 👩🏾‍🎓 Graduada em Sistemas de Informação
 
 🙎🏾‍♀️ Tenho experiência na área de Business Intelligence, especializada na análise e visualização de dados. Domino Power BI, Power Query e Excel avançado, crio dashboards interativos e KPIs que promovem decisões mais assertivas.
+
 Utilizo DAX para análises complexas e Power Query para tratar dados com eficiência. Atualmente, aprimoro SQL e Python para ampliar meu escopo e trabalhar com diferentes fontes.
+
 Sou proativa e analítica, com facilidade de comunicação e colaboração em equipes multidisciplinares. Atenta à qualidade e segurança dos dados, transformo informações em insights acionáveis que impulsionam resultados estratégicos.
+
 Minha paixão é utilizar dados para otimizar operações, impulsionar o crescimento e oferecer suporte estratégico à tomada de decisões. Tenho um histórico comprovado na criação de dashboards interativos e relatórios detalhados utilizando Power BI, melhorando significativamente a acessibilidade e a visibilidade de dados para as equipes.
 
 📞 Entre em contato comigo:

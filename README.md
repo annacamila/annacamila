@@ -1,8 +1,8 @@
 ### 👋🏾 Olá, seja bem vindo(a) ao meu perfil!
 
-# 👩🏾‍💻 Ana Camila Souza
+# 👩🏾‍💻 Ana Camila
 
-# 👩🏾‍🎓 Graduada em Sistemas de Informação
+### 👩🏾‍🎓 Graduada em Sistemas de Informação
 
 🙎🏾‍♀️ Tenho experiência na área de Business Intelligence, especializada na análise e visualização de dados. Domino Power BI, Power Query e Excel avançado, crio dashboards interativos e KPIs que promovem decisões mais assertivas.
 

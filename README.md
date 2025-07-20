@@ -1,6 +1,6 @@
 ### 👋🏾 Olá, seja bem vindo(a) ao meu perfil!
 
-# 👩🏾‍💻 Ana Camila
+# 👩🏾‍💻 Ana Camila Souza
 
 ### 👩🏾‍🎓 Graduada em Sistemas de Informação
 

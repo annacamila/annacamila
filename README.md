@@ -41,5 +41,5 @@ ____
 ____
 
 ### 📊 Estatísticas
-| <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annacamila&show_icons=true&include_all_commits=true&theme=dark" alt="Estatísticas do Github de Ana Camila" /></a> | <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacamila&layout=compact&theme=dark&custom_title=Linguagens/Tecnologias&langs_count=9" /></a>|
+| <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annacamila&show_icons=true&include_all_commits=true&theme=dark&custom_title=Estatísticas do Github de Ana Camila&langs_count=9" /></a> | <a href="https://github.com/annacamila/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacamila&layout=compact&theme=dark&custom_title=Linguagens/Tecnologias&langs_count=9" /></a>|
 | ------------- | ------------- |
